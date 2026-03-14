@@ -13,6 +13,9 @@ description:
   theme.
 ---
 
+test Latex:
+$$ \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} $$
+
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
 <figure>
