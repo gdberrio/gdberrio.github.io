@@ -1,5 +1,6 @@
 ---
 title: "Statistics of LLM Evals"
+description: "Read through the paper by Evan Miller on the statistics of LLM evals"
 pubDatetime: 2026-03-15T12:00:00.000Z
 modDatetime: 2026-03-15T12:00:00.000Z
 tags:

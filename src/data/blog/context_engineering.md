@@ -1,5 +1,6 @@
 ---
 title: "Context Engineering"
+description: "What is the dumb zone?"
 pubDatetime: 2026-03-15T12:00:00.000Z
 modDatetime: 2026-03-15T12:00:00.000Z
 tags:
