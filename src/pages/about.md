@@ -3,35 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+My name is Gui Diaz-Berrio and I'm an Economist by training and Data Scientist by trade. I'm currently working on Marketing Science through a consultancy I founded, [Pinemarsh](https://www.pinemarsh.com), where I help clients set up Marketing Measurement projects or provide training on Marketing Science. I also run a live course, [Marketing Science Bootcamp](https://maven.com/pinemarsh/marketing-science-bootcamp-mmm-attribution-incrementality), teaching the fundamentals of Marketing Science.
 
-![Astro Paper](public/astropaper-og.jpg)
+This is my personal blog, and it mostly serves as a place to write things in order to think them through. Topics range from Marketing Science, Data Science, and Economics to Engineering, LLMs, and whatever book or idea I'm currently working through. Posts are either me working through my own thoughts, picking up and stress-testing ideas from reading or watching, trying to learn something new, or occasionally playing *Advocatus diaboli* — steelmanning arguments I don't necessarily hold.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Every post is a work in progress, not ready for publication in a more formal medium. The good ones eventually make their way to one of my Substacks — either for broader analytical writing or for Marketing Science specifically. Do not take anything here too seriously, and feel free to reach out if you have questions, comments, or suggestions.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+The usual disclaimer: the views expressed here are my own and do not represent the views of my employers or clients. On occasions I share views that are not my own, but I will always make that clear.
