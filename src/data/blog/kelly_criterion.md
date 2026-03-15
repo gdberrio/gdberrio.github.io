@@ -1,8 +1,8 @@
 ---
 title: "The Kelly Criterion"
 description: "Theory behind derivation of Kelly Criterion"
-pubDatetime: 2026-03-15T12:00:00.000Z
-modDatetime: 2026-03-15T12:00:00.000Z
+pubDatetime: 2026-03-14T12:00:00.000Z
+modDatetime: 2026-03-14T12:00:00.000Z
 tags:
   - Kelly Criterion
   - Probability
