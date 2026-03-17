@@ -52,6 +52,19 @@ dd if=/opt/claude-code/bin/claude bs=1 skip=103700011 count=10357830 of=claude-c
 
 5. Start with string searches
 
+## Prior work
+
+Others have approached this differently:
+
+- [Kir Shatrov](https://kirshatrov.com/posts/claude-code-internals)
+  - intercepted API calls with mitmproxy - good for runtime behavior, misses the prompt architecture.
+- [Reid Barber](https://reidbarber.com/blog/reverse-engineering-claude-code)
+  - found source maps in an early release - clean code, but Anthropic removed them.
+- [Vrungta](https://vrungta.substack.com/p/claude-code-architecture-reverse)
+  - reconstructed architecture from runtime behavior - thorough but speculative.
+- [claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
+  - monkey-patched the SDK to log API calls.
+
 ## References
 
 - [How I reversed Engineered Claude Code](https://x.com/jaywyawhare/status/2033488305191616875?t=IMMplVjSSe9MGdlj3Th4fA)
