@@ -9,10 +9,26 @@ tags:
   - LLMs
 draft: true
 ---
-What are Claude Skills?
 
 ## Table of contents
 
+## What are Claude Skills?
+
+## Configuration
+
+## Multi-file skills
+
+## Skills vs other features
+
+### CLAUDE.md
+
+### Slash Commands
+
+### (Sub)Agents
+
+### Plugins
+
 ## References
+
 - [The Complete Guide to Building Skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 - [Anthropic Skill-Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
