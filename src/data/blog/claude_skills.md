@@ -151,3 +151,4 @@ Agent Skills is a open standard, and most other Harnesses support it. Both OpenC
 - [Merged commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/)
 - [OpenAI Codex Skills](https://developers.openai.com/codex/skills)
 - [OpenCode Skills](https://opencode.ai/docs/skills/)
+- [skills.sh](https://skills.sh/)
