@@ -1,5 +1,5 @@
 ---
-title: "Claude Skills"
+title: "What are Claude Skills?"
 description: "Claude Skills are a way to add capabilities to Claude. Essencially they are text files that contain a description and methods to execute a given task."
 pubDatetime: 2026-03-18T12:00:00.000Z
 modDatetime: 2026-03-18T12:00:00.000Z
@@ -142,13 +142,14 @@ Plugins are a way to bundle skills, slash commands, sub agents or other features
 
 ## Skills in other Harnesses
 
-Agent Skills is a open standard, and most other Harnesses support it. Both OpenCode and Codex fully support the standard.
+Agent Skills is a open standard, and most other Harnesses support it.
+
+OpenCode fully supports the same standard, and you can create skills in much the same way as you would with Claude Code. The folder changes from `.claude/` to `.opencode/`. 
+
+### Codex
 
 ## References
 
 - [The Complete Guide to Building Skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 - [Anthropic Skill-Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 - [Merged commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/)
-- [OpenAI Codex Skills](https://developers.openai.com/codex/skills)
-- [OpenCode Skills](https://opencode.ai/docs/skills/)
-- [skills.sh](https://skills.sh/)
