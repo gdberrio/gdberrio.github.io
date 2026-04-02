@@ -26,3 +26,7 @@ In regular Speculative Decoding, there is a smaller model that attempts to predi
 As name indicates, this would probably mean that instead of using a small model in the same family, it's the model itself trying to predict what the next tokens might be.
 
 Question for later: How does this work in practice under the hood?
+
+### Multi Token Prediction
+
+So the next step, as seen in Composer 2 Tech Report, is to create an MLP layer that predicts Multi Token Sequences? How does that work?
